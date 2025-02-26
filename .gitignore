@@ -3,7 +3,7 @@
 /.venv/
 /WoogleDumps/
 /Wooverheid notebooks/
-/df_documents.csv
-/df_documents_dates.csv
+/old_csvs/df_documents.csv
+/old_csvs/df_documents_dates.csv
 /df_dossiers_final.csv
 /.ipynb_checkpoints/
